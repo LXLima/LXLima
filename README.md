@@ -9,8 +9,8 @@
 
 <h4>Notable projects I've worked on:</h4>
 
-- [LX Predictor](discord.gg/PkfrbzqxJY), Is a predictor for bloxflip. It is the most popular & most accurate predictor, with over 8 Customers.
-- [LX Menu](discord.gg/n7HTrtm9UK), Is an Mod Menu that works for gorilla tag really completed. And its free.
+- [LX Predictor](https://discord.gg/PkfrbzqxJY), Is a predictor for bloxflip. It is the most popular & most accurate predictor, with over 8 Customers.
+- [LX Menu](https://discord.gg/n7HTrtm9UK), Is an Mod Menu that works for gorilla tag really completed. And its free.
 
 LX#8244
 
