@@ -1,16 +1,17 @@
-### Hi there 👋
+![Header](./header.png)
 
-<!--
-**LXLima/LXLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">LXLima</h1>
+<h3 align="center">ToS Breaker</h3>
 
-Here are some ideas to get you started:
+**Hey! I'm LXLima. I'm a developer from Portugal. I make whatever the fuck i want out of boredom.** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Fact: i hate rules.**
+
+<h4>Notable projects I've worked on:</h4>
+
+- [LX Predictor](discord.gg/PkfrbzqxJY), Is a predictor for bloxflip. It is the most popular & most accurate predictor, with over 8 Customers.
+- [LX Menu](discord.gg/n7HTrtm9UK), Is an Mod Menu that works for gorilla tag really completed. And its free.
+
+LX#8244
+
+![Footer](./footer.png)
