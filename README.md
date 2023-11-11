@@ -13,6 +13,6 @@
 - [LX Menu](https://discord.gg/n7HTrtm9UK), Is an Mod Menu that works for gorilla tag really completed. And its free.
 - [LX Typer](https://discord.gg/XVE5xR3Ttb), Is an Word Typer that you can train how fast you type in the computer.
 
-LX#8244
+LXLima#8244
 
 ![Footer](./footer.png)
