@@ -3,7 +3,7 @@
 <h1 align="center">LXLima</h1>
 <h3 align="center">ToS Breaker</h3>
 
-**Hey! I'm LXLima. I'm a developer from Portugal. I make whatever the fuck i want out of boredom.** 
+**Hey! I'm LXLima. I'm a developer. I make whatever the fuck i want out of boredom.** 
 
 **Fact: i hate rules.**
 
