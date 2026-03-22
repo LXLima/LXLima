@@ -9,9 +9,9 @@
 
 <h4>Notable projects I've worked on:</h4>
 
-- [VEGA Predictor](https://discord.gg/QU648rmM2m), #1 Best predictor in the market! You should choose it! fr
+- [LX Predictor](https://discord.gg/cucH9YSuuw), #1 Best predictor in the market! You should choose it! fr
 
-- LX Predictor, Is a predictor for bloxflip. my old predictor new above
+- VEGA Predictor, Is a predictor for bloxflip. my old predictor new above
   
 - Elite Predictor, esp that i worked on for a quite while to help the owner make the UI better.
 
